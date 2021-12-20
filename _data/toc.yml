@@ -14,10 +14,10 @@
       url: "about"
     - title: "News"
       url: "news"
-- title: "Extras"
-  url: "docs/extras"
+- title: "Scripting"
+  url: "docs/scripting"
   links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
+    - title: Subpage
+      url: "docs/scripting/subpage1"
     - title: Tags Page
       url: "tags"
